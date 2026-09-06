@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>KiranLux — Illuminate Your Style</title>
+    <title>RC Store — Dark Neon E‑Commerce</title>
 
     <!-- Fonts & Icons -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -11,7 +11,7 @@
 
     <style>
         /* ========================================
-           KIRANLUX — DARK NEON E‑COMMERCE
+           RC STORE — DARK NEON E‑COMMERCE
            ======================================== */
         :root {
             --bg-body: #0b0e14;
@@ -986,9 +986,9 @@
                     <em class="fas fa-bars"></em>
                 </button>
                 <a class="brand" href="#">
-                    <span class="icon"><em class="fas fa-sun"></em></span>
-                    Kiran<span style="-webkit-text-fill-color:var(--accent-gold);">Lux</span>
-                    <span class="brand-tagline">✦ illuminate</span>
+                    <span class="icon"><em class="fas fa-bolt"></em></span>
+                    RC<span style="-webkit-text-fill-color:var(--accent-gold);">Store</span>
+                    <span class="brand-tagline">✦ premium gear</span>
                 </a>
             </div>
 
@@ -1038,8 +1038,8 @@
         <section class="hero" aria-label="Hero banner">
             <div class="container">
                 <div class="badge"><em class="fas fa-star" style="margin-right:6px;"></em> New Season — Fresh Arrivals</div>
-                <h1>Illuminate Your <span class="highlight">Style</span> with <br>KiranLux</h1>
-                <p>Discover premium fashion, tech, and lifestyle essentials — curated with a glow. Enjoy exclusive deals and free shipping on your first order.</p>
+                <h1>Elevate Your <span class="highlight">Style</span> with <br>RC Store</h1>
+                <p>Discover premium fashion, tech, and lifestyle essentials — curated for the modern enthusiast. Enjoy exclusive deals and free shipping on your first order.</p>
                 <div style="display:flex; gap:12px; justify-content:center; flex-wrap:wrap;">
                     <button class="btn btn-primary" id="shopNow">Shop Now <em class="fas fa-arrow-right"></em></button>
                     <button class="btn btn-ghost" id="exploreDeals">Explore Deals</button>
@@ -1071,7 +1071,7 @@
         <section id="deals" class="section container" aria-labelledby="deals-title">
             <div class="title" id="deals-title">
                 <h2>Flash <span class="accent">Sale</span></h2>
-                <p>Limited-time offers — glow up your cart!</p>
+                <p>Limited-time offers — gear up now!</p>
                 <div class="line"></div>
             </div>
 
@@ -1139,7 +1139,7 @@
                 </div>
                 <div class="testimonial">
                     <div class="rating"><em class="fas fa-star"></em><em class="fas fa-star"></em><em class="fas fa-star"></em><em class="fas fa-star"></em><em class="fas fa-star"></em></div>
-                    <p>"Great selection and the checkout was smooth. KiranLux has become my go‑to store for premium finds."</p>
+                    <p>"Great selection and the checkout was smooth. RC Store has become my go‑to for premium finds."</p>
                     <div class="person">
                         <img src="https://images.unsplash.com/photo-1546456073-6712f79251bb?auto=format&fit=crop&w=80&q=80" alt="Michael Lee" class="avatar">
                         <div>
@@ -1150,7 +1150,7 @@
                 </div>
                 <div class="testimonial">
                     <div class="rating"><em class="fas fa-star"></em><em class="fas fa-star"></em><em class="fas fa-star"></em><em class="fas fa-star"></em><em class="fas fa-star-half-alt"></em></div>
-                    <p>"Amazing quality and the packaging was beautiful. The gold accents on the site drew me in — and the products delivered!"</p>
+                    <p>"Amazing quality and the packaging was beautiful. The neon aesthetic draws you in — and the products deliver!"</p>
                     <div class="person">
                         <img src="https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=80&q=80" alt="Sophia Chen" class="avatar">
                         <div>
@@ -1166,7 +1166,7 @@
         <section class="section container" aria-labelledby="news-title">
             <div class="newsletter" id="newsletter">
                 <div class="content">
-                    <h3 id="news-title"><em class="fas fa-sun" style="margin-right:8px;"></em> Glow Up Your Inbox</h3>
+                    <h3 id="news-title"><em class="fas fa-bolt" style="margin-right:8px;"></em> Stay Charged</h3>
                     <p>Subscribe for exclusive offers, early access & style inspiration</p>
                     <form id="newsletterForm" class="form-wrap">
                         <input id="newsletterEmail" type="email" placeholder="Enter your email" aria-label="Email address" required>
@@ -1183,10 +1183,10 @@
             <div style="display:flex; flex-wrap:wrap; gap:40px; justify-content:space-between;">
                 <div style="max-width:340px;">
                     <div class="brand-foot">
-                        <em class="fas fa-sun" style="margin-right:6px; -webkit-text-fill-color:var(--accent-gold);"></em>
-                        KiranLux
+                        <em class="fas fa-bolt" style="margin-right:6px; -webkit-text-fill-color:var(--accent-gold);"></em>
+                        RC Store
                     </div>
-                    <p class="muted" style="margin-top:8px; line-height:1.7;">Where light meets style — a modern e‑commerce destination crafted with passion.</p>
+                    <p class="muted" style="margin-top:8px; line-height:1.7;">Where quality meets style — a modern e‑commerce destination crafted for enthusiasts.</p>
                     <div class="social-links">
                         <a href="#" title="Facebook"><em class="fab fa-facebook-f"></em></a>
                         <a href="#" title="Twitter"><em class="fab fa-twitter"></em></a>
@@ -1225,7 +1225,7 @@
                 </div>
             </div>
             <div class="footer-bottom">
-                © <span id="year"></span> KiranLux. All rights reserved. <span style="color:var(--text-muted);">✦</span> Made with <em class="fas fa-heart" style="color:var(--accent-pink);"></em>
+                © <span id="year"></span> RC Store. All rights reserved. <span style="color:var(--text-muted);">✦</span> Made with <em class="fas fa-heart" style="color:var(--accent-pink);"></em>
             </div>
         </div>
     </footer>
@@ -1458,7 +1458,7 @@
                 return;
             }
             newsletterMsg.style.display = 'block';
-            newsletterMsg.textContent = '✨ You\'re in! Welcome to the KiranLux glow.';
+            newsletterMsg.textContent = '✨ You\'re in! Welcome to the RC Store community.';
             newsletterMsg.style.color = '#0b0e14';
             newsletterEmail.value = '';
             setTimeout(() => {
@@ -1539,7 +1539,7 @@
             }
         });
 
-        console.log('✨ KiranLux — Illuminate Your Style ✨');
+        console.log('⚡ RC Store — Premium Gear ⚡');
     </script>
 </body>
 </html>
